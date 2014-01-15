@@ -14,7 +14,7 @@ public class TranslucentWindow extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         //Add a sample button.
-        add(new JButton("I am a Button"));
+        add(new JButton("I am a Button")); 
     }
 
     public static void main(String[] args) {
